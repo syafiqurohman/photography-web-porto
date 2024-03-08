@@ -7,8 +7,8 @@
 
 ![screenshot](public/ss.webp)
 
-<h6>Demo right here : 
-  <a href="https://photography-web-porto.vercel.app/">
+<h6> Wanna see the demo right there :
+  <a href="https://photography-web-porto.vercel.app/"> Demo</a>
 <h6>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
