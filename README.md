@@ -5,7 +5,7 @@
   <br />
 </h1>
 
-![screenshot](public/images/ss.webp)
+![screenshot](public/ss.webp)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
