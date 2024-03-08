@@ -7,6 +7,10 @@
 
 ![screenshot](public/ss.webp)
 
+<h6>Demo right here : 
+  <a href="https://photography-web-porto.vercel.app/">
+<h6>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -43,3 +47,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+<h6>
+  <br />
+  <p>
+   <a href="https://dribbble.com/naiflaramadhan"><img src="https://cdn.dribbble.com/users/5147050/avatars/normal/cd7b217b7d0cde417ef7d64ac123363d.png" alt="Alfian Ramadhan" width="52" height="52"></a>
+  </p>
+  <p>
+  Created by
+  <p> 
+  <a href="https://dribbble.com/naiflaramadhan">Syafiqurohman</a>
+</h6>
